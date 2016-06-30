@@ -30,7 +30,7 @@ properties = Cartel.Properties
   , Cartel.testedWith = []
   , Cartel.dataFiles = []
   , Cartel.dataDir = ""
-  , Cartel.extraSourceFiles = []
+  , Cartel.extraSourceFiles = [ "README.md" ]
   , Cartel.extraDocFiles = []
   , Cartel.extraTmpFiles = []
   }
